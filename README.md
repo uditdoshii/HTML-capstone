@@ -1,2 +1,2 @@
 # HTML-capstone
-Resume
+Created a resume using HTML
